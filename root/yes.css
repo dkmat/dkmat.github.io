@@ -23,8 +23,9 @@ h1 {
 }
 
 .gifs-container img {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
+    width: 350px;
     position: absolute;
 }
 .gif-position-1 {
